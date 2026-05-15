@@ -1,16 +1,20 @@
-## Hi there 👋
+### TheMoeaegon
 
-<!--
-**TheMoeaegon/TheMoeaegon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and systems programming engineer in the making.
 
-Here are some ideas to get you started:
+Focused on building reliable backend systems and going deeper into how computers actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Currently learning and building in public.
+
+- Working towards being a strong backend & systems programmer
+- Languages I work with: C#, TypeScript, Go, Node.js
+- Building side projects and sharing the journey
+
+---
+
+## Contact
+
+- Email: `shahi.kshitij55@gmail.com`
+- Instagram: [@chiheisen_55](https://www.instagram.com/chiheisen_55/)
