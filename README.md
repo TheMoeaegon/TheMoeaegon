@@ -1,6 +1,6 @@
 ### TheMoeaegon
 
-Backend and systems programming engineer in the making.
+Software engineer
 
 Focused on building reliable backend systems and going deeper into how computers actually work.
 
